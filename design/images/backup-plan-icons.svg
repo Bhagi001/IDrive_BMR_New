@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="50px" height="244.6px" viewBox="0 0 50 244.6" style="enable-background:new 0 0 50 244.6;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#5CC2EF;}
+	.st1{fill:url(#SVGID_1_);}
+	.st2{fill:#C1C1C1;}
+	.st3{fill:url(#SVGID_2_);}
+	.st4{fill:#E0E0E0;}
+	.st5{opacity:0.5;fill:url(#SVGID_3_);enable-background:new    ;}
+	.st6{fill:#F15959;}
+	.st7{fill:#488ECC;}
+	.st8{fill:#FFFFFF;}
+</style>
+<g>
+	<g>
+		<polygon class="st0" points="11.9,11 11.9,3.7 4,4.7 4,11 		"/>
+		<polygon class="st0" points="14,11 22.9,11 22.9,2.5 14,3.5 		"/>
+		<polygon class="st0" points="11.9,13 4,13 4,19.1 11.9,20 		"/>
+		<g>
+			<path class="st0" d="M22.9,13h-3c1.1,0,2.1,0.3,3,0.9L22.9,13L22.9,13z"/>
+			<path class="st0" d="M19.9,13H14v5.9C14,15.7,16.6,13,19.9,13z"/>
+			<path class="st0" d="M14,18.9v1.3l0.1,0C14.1,19.8,14,19.4,14,18.9z"/>
+		</g>
+	</g>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="19.9" y1="228.92" x2="19.9" y2="221.2" gradientTransform="matrix(1 0 0 -1 0 244)">
+		<stop  offset="0" style="stop-color:#89C97D"/>
+		<stop  offset="1" style="stop-color:#45B649"/>
+	</linearGradient>
+	<circle class="st1" cx="19.9" cy="18.9" r="3.9"/>
+</g>
+<g>
+	<g>
+		<g>
+			<g>
+				<polygon class="st2" points="11.9,51 11.9,43.7 4,44.7 4,51 				"/>
+			</g>
+			<g>
+				<polygon class="st2" points="14,51 22.9,51 22.9,42.5 14,43.5 				"/>
+			</g>
+			<g>
+				<polygon class="st2" points="11.9,53 4,53 4,59.1 11.9,60 				"/>
+			</g>
+			<g>
+				<g>
+					<path class="st2" d="M22.9,53h-3c1.1,0,2.1,0.3,3,0.8L22.9,53L22.9,53z"/>
+				</g>
+				<g>
+					<path class="st2" d="M19.9,53H14v5.9C14,55.7,16.6,53,19.9,53z"/>
+				</g>
+				<g>
+					<path class="st2" d="M14,58.9v1.3l0.1,0C14.1,59.8,14,59.4,14,58.9z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="19.9" y1="188.92" x2="19.9" y2="181.2" gradientTransform="matrix(1 0 0 -1 0 244)">
+		<stop  offset="0" style="stop-color:#D6D5D5"/>
+		<stop  offset="1" style="stop-color:#838383"/>
+	</linearGradient>
+	<circle class="st3" cx="19.9" cy="58.9" r="3.9"/>
+</g>
+<g>
+	<g>
+		<g>
+			<g>
+				<polygon class="st4" points="11.9,91.1 11.9,83.8 4,84.8 4,91.1 				"/>
+			</g>
+			<g>
+				<polygon class="st4" points="14,91.1 22.9,91.1 22.9,82.6 14,83.6 				"/>
+			</g>
+			<g>
+				<polygon class="st4" points="11.9,93.1 4,93.1 4,99.2 11.9,100.1 				"/>
+			</g>
+			<g>
+				<g>
+					<path class="st4" d="M22.9,93.1h-3c1.1,0,2.1,0.3,3,0.8L22.9,93.1L22.9,93.1z"/>
+				</g>
+				<g>
+					<path class="st4" d="M19.9,93.1H14V99C14,95.8,16.6,93.1,19.9,93.1z"/>
+				</g>
+				<g>
+					<path class="st4" d="M14,99v1.3l0.1,0C14.1,99.9,14,99.5,14,99z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	
+		<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="19.9" y1="148.85" x2="19.9" y2="141.13" gradientTransform="matrix(1 0 0 -1 0 244)">
+		<stop  offset="0" style="stop-color:#D6D5D5"/>
+		<stop  offset="1" style="stop-color:#838383"/>
+	</linearGradient>
+	<circle class="st5" cx="19.9" cy="99" r="3.9"/>
+</g>
+<circle class="st6" cx="11.9" cy="138.6" r="7.9"/>
+<circle class="st7" cx="11.9" cy="183.3" r="7.9"/>
+<g>
+	<rect x="10.9" y="134.1" class="st8" width="2" height="6.1"/>
+	<rect x="10.9" y="141.1" class="st8" width="2" height="2"/>
+</g>
+<circle class="st6" cx="11.9" cy="222.6" r="7.9"/>
+<g>
+	<rect x="7.1" y="221.6" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -153.8678 73.6221)" class="st8" width="9.6" height="2"/>
+	<g>
+		
+			<rect x="10.9" y="217.8" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -153.8749 73.6191)" class="st8" width="2" height="9.6"/>
+	</g>
+</g>
+<g>
+	<rect x="9.2" y="183" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -126.1789 63.3721)" class="st8" width="8.4" height="2"/>
+</g>
+<g>
+	<rect x="9" y="182.6" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -127.9892 61.3219)" class="st8" width="2" height="5.1"/>
+</g>
+</svg>

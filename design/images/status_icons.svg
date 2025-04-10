@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.4.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="20px" height="135.6px" viewBox="0 0 20 135.6" style="enable-background:new 0 0 20 135.6;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#0D71BA;}
+	.st1{fill:url(#SVGID_1_);}
+	.st2{fill:#9AA0A4;}
+	.st3{fill:url(#SVGID_00000098218047202812843660000011010596915451878024_);}
+	.st4{fill:#EB2F2F;}
+	.st5{fill:url(#SVGID_00000152954436891954061020000009453276796124109198_);}
+	.st6{fill:#D3594C;}
+	.st7{fill:url(#SVGID_00000138554324236529991710000001598931251114176167_);}
+</style>
+<g>
+	<g id="Layer_1_00000008855177940366253730000015948720416936324230_">
+		<circle class="st0" cx="6" cy="6" r="5"/>
+		
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="6" y1="-678.9533" x2="6" y2="-688.6867" gradientTransform="matrix(1 0 0 -1 0 -682)">
+			<stop  offset="0.38" style="stop-color:#FFFFFF"/>
+			<stop  offset="0.48" style="stop-color:#CBCBCB;stop-opacity:0.8"/>
+			<stop  offset="0.62" style="stop-color:#848484;stop-opacity:0.52"/>
+			<stop  offset="0.75" style="stop-color:#4B4B4B;stop-opacity:0.29"/>
+			<stop  offset="0.86" style="stop-color:#232323;stop-opacity:0.13"/>
+			<stop  offset="0.95" style="stop-color:#0A0A0A;stop-opacity:4.000000e-02"/>
+			<stop  offset="1" style="stop-color:#010101;stop-opacity:0"/>
+		</linearGradient>
+		<circle class="st1" cx="6" cy="6" r="4.9"/>
+	</g>
+</g>
+<g>
+	<g id="Layer_1_00000065764129483744559390000012629698641399773317_">
+		<circle class="st2" cx="6" cy="46" r="5"/>
+		
+			<linearGradient id="SVGID_00000127723200061521199720000001435394902327337903_" gradientUnits="userSpaceOnUse" x1="6" y1="-718.9533" x2="6" y2="-728.6866" gradientTransform="matrix(1 0 0 -1 0 -682)">
+			<stop  offset="0.38" style="stop-color:#FFFFFF"/>
+			<stop  offset="0.48" style="stop-color:#CBCBCB;stop-opacity:0.8"/>
+			<stop  offset="0.62" style="stop-color:#848484;stop-opacity:0.52"/>
+			<stop  offset="0.75" style="stop-color:#4B4B4B;stop-opacity:0.29"/>
+			<stop  offset="0.86" style="stop-color:#232323;stop-opacity:0.13"/>
+			<stop  offset="0.95" style="stop-color:#0A0A0A;stop-opacity:4.000000e-02"/>
+			<stop  offset="1" style="stop-color:#010101;stop-opacity:0"/>
+		</linearGradient>
+		<circle style="fill:url(#SVGID_00000127723200061521199720000001435394902327337903_);" cx="6" cy="46" r="4.9"/>
+	</g>
+</g>
+<circle class="st4" cx="6" cy="86" r="5"/>
+<linearGradient id="SVGID_00000017495457352608217960000007330018689753540280_" gradientUnits="userSpaceOnUse" x1="6" y1="-758.9533" x2="6" y2="-768.6867" gradientTransform="matrix(1 0 0 -1 0 -682)">
+	<stop  offset="0.38" style="stop-color:#FFFFFF"/>
+	<stop  offset="0.48" style="stop-color:#CBCBCB;stop-opacity:0.8"/>
+	<stop  offset="0.62" style="stop-color:#848484;stop-opacity:0.52"/>
+	<stop  offset="0.75" style="stop-color:#4B4B4B;stop-opacity:0.29"/>
+	<stop  offset="0.86" style="stop-color:#232323;stop-opacity:0.13"/>
+	<stop  offset="0.95" style="stop-color:#0A0A0A;stop-opacity:4.000000e-02"/>
+	<stop  offset="1" style="stop-color:#010101;stop-opacity:0"/>
+</linearGradient>
+<circle style="fill:url(#SVGID_00000017495457352608217960000007330018689753540280_);" cx="6" cy="86" r="4.9"/>
+<circle class="st6" cx="6" cy="126" r="5"/>
+<linearGradient id="SVGID_00000173843459432912843520000018106237067304612247_" gradientUnits="userSpaceOnUse" x1="6" y1="-798.9533" x2="6" y2="-808.6867" gradientTransform="matrix(1 0 0 -1 0 -682)">
+	<stop  offset="0.38" style="stop-color:#FFFFFF"/>
+	<stop  offset="0.48" style="stop-color:#EAE6E4;stop-opacity:0.8"/>
+	<stop  offset="0.62" style="stop-color:#A49792;stop-opacity:0.52"/>
+	<stop  offset="0.75" style="stop-color:#636162;stop-opacity:0.29"/>
+	<stop  offset="0.8879" style="stop-color:#686565;stop-opacity:0.13"/>
+	<stop  offset="1" style="stop-color:#0A0A0A;stop-opacity:0"/>
+</linearGradient>
+<circle style="fill:url(#SVGID_00000173843459432912843520000018106237067304612247_);" cx="6" cy="126" r="4.9"/>
+</svg>
